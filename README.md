@@ -21,9 +21,10 @@ Multiply the current reversed number by 10 and add the last digit.
 Call the method with the remaining digits by dividing the number by 10.
 
 # Program:
+```
 DEVELOPED BY: KOUSALYA A.
 REGISTER NO: 212222230068
-```
+
 using System;
 namespace program11{
     class Program
